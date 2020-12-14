@@ -23,6 +23,14 @@ To install pytorch, use the anaconda command conda
  
 After thats done, view the ipython file for the code and model description.
 
-I will add the code for using saved weights and for using custom inputs on the trained model soon!
+To deploy on you need pytorch>=1.6.0 and word_embeddings.pt file, Text.Field file and weghts file.
+
+This three files should be created during the training itself. I cannot upload here because each file is larger than 150MB
+I'lll try to upload on drive maybe.
+
+Updated code
+https://www.kaggle.com/furkhan194/rating-prediction-pytorch
  
 ## View the ipython file for the code explanation and working
+
+
